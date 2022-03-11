@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 20px;
+}
+
+body {
+    margin-top: 20%;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-image: linear-gradient(180deg, #34656D, #C6FFC1, #FFFBDF, white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #334443;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+}
